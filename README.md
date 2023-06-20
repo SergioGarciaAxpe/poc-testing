@@ -1,21 +1,21 @@
 # React Testing POC with Jest / React Testing Library
 This repository contains unit tests for a TypeScript React app built with Vite. The tests are written using Jest and React Testing Library.
 
-## Technology
+### Technology
 - React v18.2.0
 - Typescript v5.0.2
 
-## Other tools used
+### Other tools used
 - [Vite](https://vitejs.dev/guide/)
 - [Jest](https://jestjs.io/es-ES/docs/getting-started)
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro)
 
-## Components tested
+### Componets tested
 - InputForm
 - LabelText
 - PokemonList: use the [pokeapi](https://pokeapi.co/) and [axios](https://axios-http.com/es/docs/intro)
 
-## Configure your project to do the unit test
+### Configure your project to do the unit test
 To run the test for the project, run the follow the next steps:
 
 1. Install the following dependencies:

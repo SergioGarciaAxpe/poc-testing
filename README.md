@@ -1,5 +1,5 @@
 # React Testing POC
-
+## Jest / React Testing Library
 This repository contains unit tests for a TypeScript React app built with Vite. The tests are written using Jest and React Testing Library.
 
 
@@ -16,6 +16,7 @@ This repository contains unit tests for a TypeScript React app built with Vite. 
 
 - InputForm
 - LabelText
+- PokemonList: use the [pokeapi](https://pokeapi.co/) and [axios](https://axios-http.com/es/docs/intro)
 
 ### Configure your project to do the unit test
 

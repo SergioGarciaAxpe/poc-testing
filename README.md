@@ -13,13 +13,11 @@ This repository contains unit tests for a TypeScript React app built with Vite. 
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro)
 
 ### Components tested
-
 - InputForm
 - LabelText
 - PokemonList: use the [pokeapi](https://pokeapi.co/) and [axios](https://axios-http.com/es/docs/intro)
 
 ### Configure your project to do the unit test
-
 To run the test for the project, run the follow the next steps:
 
 1. Install the following dependencies:

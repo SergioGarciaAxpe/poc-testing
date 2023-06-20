@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing <TitleLabel /> Render <TitleLabel />: 
+            <div>
+                <h1>Hola Mundo</h1>
+                <h3>Mi nombre es Sergio</h3>
+            </div>
+         1`] = `
+<DocumentFragment>
+  <div>
+    <h1>
+      Hola Mundo
+    </h1>
+    <h3>
+      Mi nombre es Sergio
+    </h3>
+  </div>
+</DocumentFragment>
+`;

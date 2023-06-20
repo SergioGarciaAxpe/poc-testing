@@ -1,7 +1,9 @@
-import { TitleLabel } from '../components/TitleLabel/TitleLabel'
+import { PokemonList } from "../components/PokemonList/PokemonList";
 
 export const MainPage = () => {
   return (
-    <TitleLabel title='Título del input' subtitle='Este es el subtitulo' />
-  )
-}
+    <div>
+      <PokemonList />
+    </div>
+  );
+};

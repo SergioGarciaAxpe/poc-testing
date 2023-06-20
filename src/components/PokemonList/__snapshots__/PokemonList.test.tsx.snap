@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PokemonList renders the list of Pokemon: 
+      <div>{"name":"bulbasaur","url":"https://pokeapi.co/api/v2/pokemon/1/"}</div>
+      <div>{"name":"charmander","url":"https://pokeapi.co/api/v2/pokemon/4/"}</div>
+      <div>{"name":"squirtle","url":"https://pokeapi.co/api/v2/pokemon/7/"}</div>
+     1`] = `
+<DocumentFragment>
+  <div>
+    <div
+      style="margin: 20px;"
+    >
+      Showing from 1 to 20
+    </div>
+    <div
+      class="button-row"
+    >
+      <button>
+        Prev
+      </button>
+      <button>
+        Next
+      </button>
+    </div>
+  </div>
+</DocumentFragment>
+`;

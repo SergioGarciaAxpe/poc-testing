@@ -5,7 +5,7 @@ interface InpupGroupProps {
   id: string;
   label: string;
   placeholder: string;
-  type?: "text" | "password";
+  type?: "text" | "password" | "email";
   value: string;
   handleOnChange: (event: ChangeEvent) => void;
 }
